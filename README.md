@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
 </p>
 
 <!--
