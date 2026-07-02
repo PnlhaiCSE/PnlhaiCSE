@@ -50,7 +50,7 @@
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" alt="Window"/>
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  height="40" alt="bs5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  height="60" alt="bs5"/>
   <img width="20"/>     
   <img src="image/flask.png" height="80"/>
   <img width="20"/> 
