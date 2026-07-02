@@ -9,12 +9,12 @@
 <p align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" /> 
+  <img width="20"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="35" alt="C"/>     
+  <img height="40" alt="C" src="https://github.com/user-attachments/assets/8298b19e-479b-42db-9b2d-55ec20bd34cd" />
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu" />   
   <img width="20"/>
@@ -51,7 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" alt="Window"/>
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  height="40" alt="bs5"/>
-  <img width="20"/>       
+  <img width="20"/>    
+  <img src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=FFFFFF" height="80"/>
+  <img width="20"/>  
 </p>
 
 <!--
