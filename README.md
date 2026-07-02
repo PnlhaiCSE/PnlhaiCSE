@@ -9,7 +9,7 @@
 <p align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" /> 
-  <img width="20"/>   
+  <img width="12"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img width="20"/>
   <img height="40" alt="C" src="https://github.com/user-attachments/assets/8298b19e-479b-42db-9b2d-55ec20bd34cd" />
@@ -52,7 +52,7 @@
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  height="60" alt="bs5"/>
   <img width="20"/>     
-  <img src="image/flask.png" height="80"/>
+  <img src="image/flask.png" height="60"/>
   <img width="20"/> 
 </p>
 
