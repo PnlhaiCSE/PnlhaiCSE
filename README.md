@@ -66,6 +66,8 @@ Build. Deploy. Learn. Repeat. 🚀
   <img width="20"/>     
   <img src="image/flask.png" height="40"/>
   <img width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img width="20"/>
 </p>
 <br clear="both"/>
 
